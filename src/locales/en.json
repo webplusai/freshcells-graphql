@@ -1,0 +1,17 @@
+{
+  "login": {
+    "title": "Login",
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Password",
+    "submitButton": "Login",
+    "error": "Invalid credentials. Please check your email or password.",
+    "successMessage": "Login successful! Redirecting..."
+  },
+  "account": {
+    "title": "Account Details",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "logoutButton": "Logout",
+    "loadingMessage": "Loading your account details..."
+  }
+}

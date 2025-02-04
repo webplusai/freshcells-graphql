@@ -1,0 +1,17 @@
+{
+  "login": {
+    "title": "Einloggen",
+    "emailPlaceholder": "E-Mail",
+    "passwordPlaceholder": "Passwort",
+    "submitButton": "Einloggen",
+    "error": "Ungültige Anmeldedaten. Überprüfen Sie Ihre E-Mail oder Ihr Passwort.",
+    "successMessage": "Erfolgreich eingeloggt! Weiterleitung..."
+  },
+  "account": {
+    "title": "Kontodetails",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "logoutButton": "Ausloggen",
+    "loadingMessage": "Lade deine Kontodaten..."
+  }
+}
